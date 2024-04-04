@@ -391,7 +391,7 @@ Bundle-DocURL:
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -405,7 +405,7 @@ Bundle-DocURL:
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -418,7 +418,7 @@ Bundle-DocURL:
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -812,7 +812,7 @@ Bundle-DocURL:
             <dependency>
                 <groupId>org.apache.sling</groupId>
                 <artifactId>org.apache.sling.models.api</artifactId>
-                <version>1.3.6</version>
+                <version>1.5.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.sling</groupId>
